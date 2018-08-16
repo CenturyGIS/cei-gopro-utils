@@ -2,7 +2,7 @@
 
 This repo combines the work of:
 
-[github.com/stilldavid/gopro-utils]() <br>
+[github.com/stilldavid/gopro-utils](github.com/stilldavid/gopro-utils) <br>
 [github.com/paulmach/go.geo]() <br>
 [github.com/tkrajina/gpxgo]() <br>
 
